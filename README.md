@@ -72,4 +72,40 @@ Die Struktur ist in drei Phasen gegliedert:
 Die zugehörigen Webseiten mit Videos und Aufgaben findest du hier:  
 👉 https://www.mathematik.uni-ulm.de/numerik/hpc/ss25/hpc0/
 
+## Verwendete Werkzeuge
+
+In der Vorlesung kommen verschiedene Werkzeuge zum Einsatz, mit denen ihr
+sowohl **Software als auch Hardware selbst entwickelt**:
+
+- [**abc-llvm** – Compiler für die Sprache ABC](https://github.com/michael-lehn/abc-llvm)  
+  Mit der Programmiersprache **ABC** schreiben wir alle Beispiele und
+  Arbeitsblattlösungen –  
+  und später sogar unseren **eigenen Compiler**.  
+  Die Sprache wurde speziell für diese Veranstaltung von mir entwickelt, um
+  typische Einstiegshürden beim Lernen von C zu vermeiden,  ohne auf Nähe zur
+  realen Hardware zu verzichten.
+
+- [**CircuitVerse** – digitale Schaltungen im Browser](https://circuitverse.org)  
+  Damit entwerfen wir Logikschaltungen direkt im Webbrowser: von einfachen
+  Gattern über Addierer bis hin zu einer eigenen ALU mit Registern.  
+  Ideal für den visuellen Einstieg in die digitale Logik.
+
+- [**ulm-generator** – Komponenten-Layout für den Gesamtcomputer](https://github.com/michael-lehn/ulm-generator)  
+  Sobald einzelne Bausteine klar sind, wird es in CircuitVerse schnell
+  unübersichtlich.  
+  Mit dem ULM-Generator beschreiben wir unsere Rechnerarchitektur **textuell**
+  –  damit lassen sich auch größere Systeme strukturiert und wiederverwendbar
+  zusammenbauen.
+
+- [**ulm-on-ice** – Umsetzung der ULM in SystemVerilog](https://github.com/michael-lehn/ulm-on-ice)  
+  Für alle, die tiefer einsteigen wollen: Hier wird die **ULM (Ulm Lecture
+  Machine)** in  
+  [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) beschrieben –  
+  eine Hardwarebeschreibungssprache, mit der sich reale digitale Schaltungen
+  definieren lassen.  
+  Diese Version lässt sich auf einem **iCE40-FPGA** real ausführen – euer
+  selbst gebauter Rechner in echter Hardware.
+
+
+
 
