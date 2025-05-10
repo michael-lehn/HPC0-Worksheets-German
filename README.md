@@ -8,6 +8,39 @@ Denn hier lernt ihr, wie man seinen eigenen Computer baut – und einen
 Compiler dafür schreibt.
 
 
+## Organisation der Vorlesung
+
+Die Vorlesung folgt dem **Flipped-Classroom-Konzept**:  
+Zu Hause schaut ihr **Lernvideos** an – und zwar vollständig und **mit
+Nachmachen aller gezeigten Beispiele**, egal wie trivial sie wirken. In den
+Präsenzphasen bearbeiten wir dann gemeinsam die Arbeitsblätter und vertiefen
+das Verständnis.
+
+Die Struktur ist in drei Phasen gegliedert:
+
+1. **Sessions 1–10:** Es wechseln sich **Top-Down**- und
+   **Bottom-Up**-Einheiten ab:
+   - In **Top-Down-Sessions** arbeiten wir mit einem existierenden Computer und
+     Compiler und entdecken durch gezielte Experimente immer mehr Details.
+   - In **Bottom-Up-Sessions** bauen wir ausgehend von Logikgattern Stück für
+     Stück unsere eigene Hardware – Addierer, Register, Flipflops – bis hin zum
+     eigenen Rechner.
+
+2. **Ab Session 11:**  
+   In dieser Phase habt ihr eine klare Vorstellung davon, wie ein Computer
+   aufgebaut ist und wie ein Compiler funktioniert. Wir entwickeln nun **unsere
+   eigene Hardware und unseren eigenen Compiler weiter**.  
+   Die Trennung zwischen Top-Down und Bottom-Up wird weniger strikt – je nach
+   Thema gibt es eher **High-Level-Sessions** (z. B. zu Datenstrukturen) oder
+   **Low-Level-Sessions** (z. B. zu Funktionsaufrufen auf Hard- und
+   Softwareebene).
+
+👉 Vorlesungskonzept und Inhalte im Überblick:  
+- [Video auf Deutsch](https://youtu.be/9TEyFQLgfUw)  
+- [Video auf Englisch](https://youtu.be/JOkwqfFm4GY)
+
+
+
 ## Sessions
 
 1. [Erste Schritte mit der Programmiersprache ABC (Top-Down)](session01/README.md)  
