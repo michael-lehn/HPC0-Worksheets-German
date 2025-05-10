@@ -1,7 +1,7 @@
 # Session 03: Top-Down
 
 [Webseite](https://www.mathematik.uni-ulm.de/numerik/hpc/ss25/hpc0/session03/page01.html#session03)  
-mit Lernvideos (und den Aufgaben in Englisch).
+mit Aufgaben in Englisch.
 
 In dieser Session verfolgen wir erneut den Top-Down-Ansatz, d. h. wir
 experimentieren schrittweise. Inhaltlich knüpfen wir an das erste Aufgabenblatt
