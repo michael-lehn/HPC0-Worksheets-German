@@ -2,6 +2,8 @@
 
 [Webseite](https://www.mathematik.uni-ulm.de/numerik/hpc/ss25/hpc0/session01/page01.html#session01) mit Lernvideos (und den Aufgaben in Englisch).
 
+👉 [PDF-Version des Arbeitsblatts](arbeitsblatt01.pdf)
+
 ## Links zu Lernvideos auf YouTube
 
 - [Programm-Ablauf (Control-Flow)](https://youtu.be/UW_aVHYz3Y0)
