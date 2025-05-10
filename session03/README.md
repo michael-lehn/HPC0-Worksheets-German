@@ -4,14 +4,6 @@
 
 👉 [PDF-Version des Arbeitsblatts](session3.pdf)
 
-In dieser Session verfolgen wir erneut den Top-Down-Ansatz, d. h. wir
-experimentieren schrittweise. Inhaltlich knüpfen wir an das erste Aufgabenblatt
-an: Dort wurde im Ausblick gezeigt, wie man einen Parser schreibt, der
-arithmetische Ausdrücke erkennt und passenden Assemblercode erzeugt. In
-Session 3 programmieren wir diesen Parser Schritt für Schritt, um zu verstehen,
-wie Parser im Allgemeinen funktionieren und wie daraus ein Compiler entstehen
-kann.
-
 Im Video zu Session 3 werden keine neuen Sprachfeatures von ABC vorgestellt –
 alles, was ihr für diese Session braucht, wurde bereits in Session 1 erklärt.
 
