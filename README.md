@@ -46,6 +46,12 @@ Die Struktur ist in drei Phasen gegliedert:
 1. [Erste Schritte mit der Programmiersprache ABC (Top-Down)](session01/README.md)  
    Einführung in Variablen, Kontrollstrukturen und erste Experimente mit Assemblercode.
 
+   👉 Am Ende des Arbeitsblatts schreibt ihr einen einfachen **Lexer** – und im
+   Ausblick einen kleinen **Parser**,  der arithmetische Ausdrücke wie
+   `2*(4+5)` in Assembler übersetzt. Das ist bereits ein funktionierender
+   **Compiler**,  auch wenn man anfangs kaum glauben würde, wie einfach das
+   geht.
+
 2. [Erste Schritte mit Logik-Gattern (Bottom-Up)](session02/README.md)  
    Grundbegriffe der digitalen Logik, Darstellung von Ganzzahlen und einfache Schaltungen mit Gattern.
 
