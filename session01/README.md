@@ -2,7 +2,7 @@
 
 [Webseite](https://www.mathematik.uni-ulm.de/numerik/hpc/ss25/hpc0/session01/page01.html#session01) mit Lernvideos (und den Aufgaben in Englisch).
 
-👉 [PDF-Version des Arbeitsblatts](arbeitsblatt01.pdf)
+👉 [PDF-Version des Arbeitsblatts](session1.pdf)
 
 ## Links zu Lernvideos auf YouTube
 
