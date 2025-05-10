@@ -1,7 +1,12 @@
 # HPC0 Arbeitsblätter – Deutsche Version
 
-Dies ist die deutsche Version der Arbeitsblätter zur Veranstaltung **HPC0 – Einführung in das Programmieren und Rechnernahe Arbeiten**.  
-Jede Session wird durch ein eigenes README mit Lernvideos und Aufgaben begleitet.
+Dies ist die deutsche Version der Arbeitsblätter zur Veranstaltung
+**Introduction to High Performance Computing** – so heißt die Veranstaltung
+ganz offiziell.  
+Ehrlicher wäre: **HPC 0 – Programmieren ohne Schnickschnack**.  
+Denn hier lernt ihr, wie man seinen eigenen Computer baut – und einen
+Compiler dafür schreibt.
+
 
 ## Sessions
 
