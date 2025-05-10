@@ -79,8 +79,7 @@ sowohl **Software als auch Hardware selbst entwickelt**:
 
 - [**abc-llvm** – Compiler für die Sprache ABC](https://github.com/michael-lehn/abc-llvm)  
   Mit der Programmiersprache **ABC** schreiben wir alle Beispiele und
-  Arbeitsblattlösungen –  
-  und später sogar unseren **eigenen Compiler**.  
+  Arbeitsblattlösungen – und später sogar unseren **eigenen Compiler**.  
   Die Sprache wurde speziell für diese Veranstaltung von mir entwickelt, um
   typische Einstiegshürden beim Lernen von C zu vermeiden,  ohne auf Nähe zur
   realen Hardware zu verzichten.
@@ -102,9 +101,8 @@ sowohl **Software als auch Hardware selbst entwickelt**:
   Machine)** in  
   [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) beschrieben –  
   eine Hardwarebeschreibungssprache, mit der sich reale digitale Schaltungen
-  definieren lassen.  
-  Diese Version lässt sich auf einem **iCE40-FPGA** real ausführen – euer
-  selbst gebauter Rechner in echter Hardware.
+  definieren lassen.  Diese Version lässt sich auf einem **iCE40-FPGA** real
+  ausführen – euer selbst gebauter Rechner in echter Hardware.
 
 
 
