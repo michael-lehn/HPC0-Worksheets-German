@@ -55,8 +55,11 @@ Die Struktur ist in drei Phasen gegliedert:
 2. [Erste Schritte mit Logik-Gattern (Bottom-Up)](session02/README.md)  
    Grundbegriffe der digitalen Logik, Darstellung von Ganzzahlen und einfache Schaltungen mit Gattern.
 
-3. [Parser verstehen und selbst programmieren (Top-Down)](session03/README.md)  
-   Schrittweise Entwicklung eines Parsers für arithmetische Ausdrücke und Einstieg in die Unix-Shell.
+3. [Funktionsaufrufe verstehen (Top-Down)](session03/README.md)  
+   Wir bleiben in ABC, führen aber gezielt Experimente durch, um zu verstehen,
+   was bei einem **Funktionsaufruf im Hintergrund passieren muss**.  
+   Dabei gewinnen wir erste Einsichten in das Konzept des **Stacks** – ein
+   zentrales Bauelement für spätere eigene Rechner und Compiler.
 
 4. [Subtraktion und Zweierkomplement (Bottom-Up)](session04/README.md)  
    Aufbau komplexerer Schaltungen: Subtraktion, Multiplexer und Darstellung negativer Zahlen.
