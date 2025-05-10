@@ -2,6 +2,8 @@
 
 [Webseite](https://www.mathematik.uni-ulm.de/numerik/hpc/ss25/hpc0/session02/page01.html#session02)  mit Lernvideos (und den Aufgaben in Englisch).
 
+👉 [PDF-Version des Arbeitsblatts](session2.pdf)
+
 ## Links zu Lernvideos auf YouTube
 
 - [Einstieg in Logikgatter (Getting started with logic gates)](https://youtu.be/8REMztSzANA)
